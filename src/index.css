@@ -40,7 +40,7 @@ main{
 }
 
 .roll-btn{
-    height: 40px;
+    height: 30px;
     width: 100px;
     text-align: center;
     border-radius: 8px;
@@ -60,7 +60,7 @@ main{
 }
 
 span{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .title {
