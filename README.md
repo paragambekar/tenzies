@@ -3,7 +3,13 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-### 🏠 [Homepage]((http://paragambekar.github.io/tenzies))
+### 🏠 [Homepage](http://paragambekar.github.io/tenzies)
+
+
+
+
+https://user-images.githubusercontent.com/69147632/180655704-59018530-b605-4cb4-954b-d3f1f34ad1ec.mp4
+
 
 ## Install
 
